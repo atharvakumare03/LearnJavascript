@@ -1,1 +1,45 @@
+console.log is used to print a message to the console
 
+ex : console.log("cricket")
+
+Above message prints cricket to the console
+
+------------------------------------------------------------------------------------
+
+Variables in js :
+
+    Variables are the containers for the data
+
+Rules :
+
+    1) variables names are case sensitive for ex. "a", "A" is different
+    
+    2) Only letters(a,b...) , digits(1,2...) , underscore(_), dollar($) is allowed
+
+    3) Only a letter , underscore , dollar should be first character
+
+    4) Reserved words cannot be variable names ex. console--> it cannot be a variable name
+
+Three ways of variable declaration :
+
+    1) var : Variable can be re-declared & updated. 
+             A global scope variable
+
+    2) let : Variable cannot be re-declared but can be updated.
+             Block scope variable
+
+    3) const : Variable cannot be re-declared & cannot be updated.
+             Block scope variable
+
+---------------------------------------------------------------------------------
+
+Note : By default the value of variable when declared with let is "undefined"
+       But in case of const we must assign a value otherwise it gives "error"
+
+---------------------------------------------------------------------------------
+
+Data Types in js :
+
+1) Primitive : Number,String,Boolean,Undefined,Null,BigInt,Symbol
+
+2) Non-Primitive : Objects (Arrays , Functions)
