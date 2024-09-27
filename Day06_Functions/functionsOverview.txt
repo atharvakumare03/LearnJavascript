@@ -1,0 +1,31 @@
+What is a Funcion in JS?
+
+- It is a block of code that performs a specific task.
+
+- It can be invoked whenever needed
+
+----------------------------------------------------------------
+
+1. Function Definition :
+
+
+  Type 1 :
+
+
+    function functionName(){
+
+        // execution
+
+    }
+
+  Type 2 :
+
+    function functionName(param1, param2....){
+    
+        // execution
+
+    }
+
+2. Function Call :
+
+functionName();
