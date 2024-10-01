@@ -46,3 +46,5 @@ const output = arr.reduce((previous,current) =>
 );
 
 console.log(output);
+
+// will update with more methods
